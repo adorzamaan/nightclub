@@ -1,0 +1,260 @@
+@media(min-width:768px) and (max-width:1499px) {
+    .ar_left {
+        left: -40px;
+    }
+
+    .ar_right {
+        right: -40px;
+    }
+
+}
+
+@media(min-width:576px) and (max-width:991px) {
+    .blog_caption h3 {
+        font-size: 14px;
+        color: #fff;
+        font-weight: 600;
+        padding: 15px 0px;
+        text-transform: uppercase;
+    }
+
+    .blog_caption {
+        border: 1px solid #222222;
+        border-top: none;
+        -webkit-transition: .9s;
+        transition: .9s;
+    }
+
+    .blog_caption p {
+        font-size: 14px;
+        padding: 0px 15px;
+
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+    .ar_left {
+        left: -40px;
+    }
+
+    .ar_right {
+        right: -40px;
+    }
+
+}
+
+@media(min-width:768px) and (max-width:992px) {
+    .upcoming_left img {
+        height: 350px;
+    }
+
+    #night_header .nightNav {
+        background-color: #000;
+    }
+}
+
+@media(min-width:575px) and (max-width:767px) {
+    #night_dj {
+        padding: 30px 0px 40px;
+    }
+
+    .blog_caption h3 {
+        font-size: 13px;
+    }
+
+    .blog_caption p {
+        font-size: 12px;
+        padding: 0px 5px;
+
+    }
+}
+
+@media(max-width:991px) {
+    .banner_btm {
+        display: none;
+    }
+
+    #myNav {
+        background-color: #000000;
+    }
+
+    .about_center .btnhover {
+        margin-bottom: 25px;
+    }
+
+    .gallery_center .center_content img {
+        width: 100% !important;
+        height: cover !important;
+    }
+}
+
+@media(max-width:767px) {
+    .nightNav .logo {
+        padding-left: 20px;
+    }
+
+    .nightNav button i {
+        font-size: 18px;
+        padding-right: 20px;
+        color: #fff;
+        padding: 5px 12px;
+        border: 1px solid #593a5e;
+    }
+
+    #night_header {
+        padding: 10px 0px;
+    }
+
+    #night_header .nightNav {
+        background-color: #;
+        text-align: center;
+        border-bottom: none;
+    }
+
+    #myNav {
+        border-top: 1px solid #593a5e;
+        background: #000;
+        margin-top: 10px;
+    }
+
+    .nightNav .container {
+        max-width: 100%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .banner_content h2 {
+        font-size: 50px;
+    }
+
+    .banner_content h3 {
+        font-size: 19px;
+    }
+
+    .banner_content p {
+        max-width: 450px;
+        padding: 18px 0px;
+
+    }
+
+    .btnhover {
+        font-size: 14px;
+        padding: 8px 30px;
+
+    }
+
+    .about_center p {
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+
+    .upcoming_right h3 {
+        padding-top: 20px;
+    }
+
+    #upcoming_event {
+        padding: 30px 0px;
+    }
+
+    .tesimonial_slide .col-lg-6 {
+        margin-right: 50px;
+    }
+
+
+}
+
+@media(max-width:575px) {
+    .nightNav #myNav ul li a {
+        font-size: 12px;
+    }
+
+    .banner_content h2 {
+        font-size: 40px;
+        color: #fff;
+    }
+
+    .banner_content h3 {
+        font-size: 18px;
+    }
+
+    .banner_content p {
+        max-width: 400px;
+        padding: 18px 0px;
+
+    }
+
+    .btnhover {
+        font-size: 14px;
+        padding: 8px 30px;
+
+    }
+
+    #about_night {
+
+        padding: 50px 0px;
+    }
+
+    #night_gallery {
+        padding: 25px 0px 35px;
+    }
+
+    .center_content {
+        margin-bottom: 20px;
+    }
+
+    .slick_slider .col-lg-3 {
+        margin: 0px 8px;
+
+    }
+
+    #night_dj {
+        padding: 50px 0px 0px;
+    }
+
+    #night_blog {
+        padding: 20px 0px 40px;
+    }
+
+    #night_testimonial {
+        padding: 20px 0px 30px;
+    }
+
+    .memership_item {
+        margin-bottom: 15px;
+    }
+
+    #night_membership {
+        padding: 30px 0px;
+    }
+
+    .preloader_pic {
+        width: 65px;
+    }
+
+    .section_heading {
+        padding: 15px 0px 30px;
+    }
+
+    .section_heading h2 {
+        font-size: 18px;
+    }
+
+}
+
+@media(max-width:350px) {
+    .upcoming_right ul .box {
+        width: 50px;
+        height: 50px;
+
+
+    }
+
+    .upcoming_right ul .box h5 {
+        font-size: 12px;
+    }
+
+    .upcoming_right ul .box p {
+        padding: 2px 0px 0px 0px;
+        font-size: 12px;
+    }
+}
