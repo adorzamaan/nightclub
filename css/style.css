@@ -207,8 +207,6 @@ a {
     width: 100%;
     background: #000000;
     z-index: 999999;
-    transition: .9s;
-    padding: 10px 0px;
 }
 
 .nightNav button i {
